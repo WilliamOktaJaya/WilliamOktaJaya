@@ -3,11 +3,3 @@
 </div>
 <div align="center">
 </div>
-
-<h4 align="center"> </h5>
-
-<div align="center">
-  <a href="https://www.instagram.com/wilyssssss?igsh=MTZtenBxczVmdW1jeA==" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="90" height="40" alt="instagram logo"  />
-  </a>
-</div>
