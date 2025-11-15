@@ -4,8 +4,10 @@
 <div align="center">
 </div>
 
+<h4 align="center">𝕱𝖔𝖑𝖑𝖔𝖜 𝕸𝖞 𝕾𝖔𝖘𝖎𝖆𝖑 𝕸𝖊𝖉𝖎𝖆</h4>
+
 <div align="center">
   <a href="https://www.instagram.com/wilyssssss?igsh=MTZtenBxczVmdW1jeA==" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="90" height="40" alt="instagram logo"  />
   </a>
 </div>
